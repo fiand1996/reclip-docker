@@ -6,7 +6,7 @@ Automated GitHub Actions workflow to build and publish multi-architecture Docker
 
 ---
 
-## 🚀 Quick Start (Kubernetes / Docker)
+## 🚀 Quick Start
 
 ### Pull the Image
 
